@@ -1,4 +1,4 @@
 #!/bin/bash 
 
-sudo yum install -y httpd
-sudo systemctl start httpd && systemctl enable httpd 
+sudo yum install -y apache2
+sudo systemctl start apache2 && systemctl enable apache2
