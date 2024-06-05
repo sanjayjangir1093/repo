@@ -1,1 +1,1 @@
-# repo
+# http install 
